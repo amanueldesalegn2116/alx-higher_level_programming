@@ -1,1 +1,1 @@
-A Repository for the tasks related to Data Structures: Lists, Tuples (Python)
+0x03. Python - Data Structures: Lists, Tuples
