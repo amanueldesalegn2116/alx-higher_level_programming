@@ -1,17 +1,17 @@
 #!/usr/bin/python3
-'''Contains a say_my_name function for a TDD project.
+'''Contains a say_my_name function
 '''
 
 
 def say_my_name(first_name, last_name=""):
-    '''Prints a given first and last name of a person.
+    '''Prints a given first and last name
 
     Args:
-        first_name (str): The first name of the person.
-        last_name (str): The last name of the person.
+        first_name (str): The first name
+        last_name (str): The last name
 
     Raises:
-        TypeError: If the first_name and last_name are not strings.
+        TypeError: first_name and last_name are not strings.
     '''
     if not isinstance(first_name, str):
         raise TypeError('first_name must be a string')

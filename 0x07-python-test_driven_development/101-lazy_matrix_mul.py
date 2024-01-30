@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''Contains a lazy_matrix_mul function for a TDD project.
+'''Contains a lazy_matrix_mul
 '''
 import numpy as np
 

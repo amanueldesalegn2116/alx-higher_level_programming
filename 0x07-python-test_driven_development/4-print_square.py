@@ -1,13 +1,13 @@
 #!/usr/bin/python3
-'''Contains a print_square function for a TDD project.
+'''Contains a print_square function
 '''
 
 
 def print_square(size):
-    '''Prints a square with the character '#'.
+    '''Prints a square with '#'.
 
     Args:
-        size (int): The size length of the square.
+        size (int): size length of the square.
     '''
     if not isinstance(size, int):
         raise TypeError('size must be an integer')

@@ -1,16 +1,15 @@
 #!/usr/bin/python3
-'''Contains a matrix_divided function for a TDD project.
+'''Contains a matrix_divided
 '''
 
 
 def matrix_divided(matrix, div):
-    '''Divides all elements of a matrix.
+    '''Divides all elements
     Args:
-        matrix (list): The matrix whose elements are to be divided.
-        div (int): The number to use as a divisor.
+        matrix (list): The matrix whose elements
+        div (int): The number
     Returns:
-        list: A new list consiting of the result of dividing each element
-        in the given matrix by div.
+        list: A new list consiting of the result
     '''
     messages = (
         'matrix must be a matrix (list of lists) of integers/floats',

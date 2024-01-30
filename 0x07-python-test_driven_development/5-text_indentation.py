@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''Contains a text_indentation function for a TDD project.
+'''Contains a text_indentation function
 '''
 
 

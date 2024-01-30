@@ -8,8 +8,8 @@
 #define PY_SSIZE_T_CLEAN
 
 /**
- * print_python_string - Prints some basic info about a Python string object
- * @p: A pointer to the Python string object
+ * print_python_string - Prints some basic info
+ * @p: A pointer to  string object
  */
 void print_python_string(PyObject *p)
 {
